@@ -353,20 +353,6 @@ This project helped me strengthen my skills in:
 
 #Python #MachineLearning #DataScience #AI #BusinessAnalytics #Streamlit #Dashboard #Analytics #GitHub #SoftwareEngineering #DataAnalytics
 
----
-
-# 📷 Screenshot Tips
-
-Take screenshots of:
-
-1. Login Page
-2. Main Dashboard
-3. KPI Cards
-4. Sales Trend Graph
-5. Forecasting Graph
-6. AI Chatbot
-7. PDF Report
-8. Low Stock Alerts
 
 
 
