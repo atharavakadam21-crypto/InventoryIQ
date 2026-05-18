@@ -91,11 +91,8 @@ This project combines:
 
 ## 1️⃣ Login Page
 
-Add Screenshot Here:
+<img width="1751" height="462" alt="image" src="https://github.com/user-attachments/assets/2976845c-43c0-48dc-a2ac-4c2f874a982a" />
 
-```md
-![Login Page](screenshots/login.png)
-```
 
 ### Features Used:
 
@@ -188,11 +185,8 @@ Add Screenshot Here:
 
 ## 6️⃣ AI Copilot Assistant
 
-Add Screenshot Here:
+<img width="1431" height="352" alt="image" src="https://github.com/user-attachments/assets/faa95c05-3a59-46cc-b53e-650e1a94d967" />
 
-```md
-![AI Copilot](screenshots/chatbot.png)
-```
 
 ### Features Used:
 
